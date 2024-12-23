@@ -32,7 +32,7 @@ return {
         " █▀ █░█ █▀▀ █▄▀ █▀ ",
         " ▄█ █▄█ █▄▄ █░█ ▄█ ",
         "",
-        "     @RhazeCoder  ",
+        "   @RhazeCoder  ",
       }
       return opts
     end,
