@@ -8,7 +8,7 @@ return {
   end,
   opts = {
     bg_theme = "summer",
-    watermark = "@itsmenewbie03",
+    watermark = "@rhaze",
     has_line_number = true,
     has_breadcrumbs = true,
   },
